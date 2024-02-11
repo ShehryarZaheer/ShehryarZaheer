@@ -14,7 +14,7 @@ Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a lo
 
 Here are some of the technologies and tools I work with:
 
-- ![Android](images/android-logo-png-transparent.png) [Android Development]
+- ![Android](images/android.png) [Android Development]
 - 🌐 [Technology 2]
 - 🛠️ [Tool 1]
 - 🚀 [Framework 1]
