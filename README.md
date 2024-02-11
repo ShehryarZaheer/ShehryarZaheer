@@ -14,12 +14,13 @@ Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a lo
 
 Here are some of the technologies and tools I work with:
 
-- <img src="images/android.png" alt="Android" width="20" height="20"> Android
-- <img src="images/kotlin_resized.png" alt="Kotlin" width="20" height="20"> Kotlin
-- <img src="images/java_logo.png" alt="Java" width="20" height="20"> Java
-- <img src="images/aspdotnet.png" alt="Asp.NET" width="20" height="20"> Asp .NET
-- <img src="images/android_studio.png" alt="Android Studio" width="20" height="20"> Android Studio
-- <img src="images/visualstudio.png" alt="Visual Studio" width="20" height="20"> Visual Studio
+- <img src="images/android.png" alt="Android" width="12" height="12"> Android
+- <img src="images/kotlin_resized.png" alt="Kotlin" width="12" height="12"> Kotlin
+- <img src="images/java_logo.png" alt="Java" width="12" height="12"> Java
+- <img src="images/aspdotnet.png" alt="Asp.NET" width="12" height="12"> Asp .NET
+- <img src="images/sql.png" alt="Sql" width="12" height="12"> SQL
+- <img src="images/android_studio.png" alt="Android Studio" width="12" height="12"> Android Studio
+- <img src="images/visualstudio.png" alt="Visual Studio" width="12" height="12"> Visual Studio
 
 ## Projects
 
@@ -44,9 +45,9 @@ cutting out the middleman, we give tenants and landlords the power to find the b
 
 Let's connect and have a conversation:
 
-- <img src="images/twitter.png" alt="Twitter" width="20" height="20"> [Twitter](https://x.com/shehryarzaheer?t=uiUBf-DM2zlUKH5vPikinw&s=08)
-- <img src="images/linkedin.png" alt="LinkedIn" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/shehryar-zaheer)
-- <img src="images/gmail.png" alt="Gmail" width="20" height="20"> [Email](shehryarzaheer112@gmail.com)
+- <img src="images/twitter.png" alt="Twitter" width="12" height="12"> [Twitter](https://x.com/shehryarzaheer?t=uiUBf-DM2zlUKH5vPikinw&s=08)
+- <img src="images/linkedin.png" alt="LinkedIn" width="12" height="12"> [LinkedIn](https://www.linkedin.com/in/shehryar-zaheer)
+- <img src="images/gmail.png" alt="Gmail" width="12" height="12"> [Email](shehryarzaheer112@gmail.com)
 
 ## Blog
 
