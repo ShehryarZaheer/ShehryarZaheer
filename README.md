@@ -1,6 +1,6 @@
 # Welcome to Shehryar Zaheer's GitHub Profile 🌟
 
-![Profile Banner](images/profile_banner.jpg)
+![Profile Banner](images/profile_banner.jpg){: width="100" height="100"}
 
 ## About Me
 
@@ -14,7 +14,7 @@ Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a lo
 
 Here are some of the technologies and tools I work with:
 
-- ![Android](images/android.png) [Android Development]
+- ![Android](images/android.png){: width="10" height="10"} [Android Development]
 - 🌐 [Technology 2]
 - 🛠️ [Tool 1]
 - 🚀 [Framework 1]
