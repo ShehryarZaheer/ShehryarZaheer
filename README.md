@@ -1,6 +1,6 @@
 # Welcome to Shehryar Zaheer's GitHub Profile 🌟
 
-![Profile Banner](images/profile_banner.jpg){: width="100" height="100"}
+<img src="images/profile_banner.jpg" alt="Profile banner" width="100" height="100">
 
 ## About Me
 
@@ -14,11 +14,12 @@ Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a lo
 
 Here are some of the technologies and tools I work with:
 
-- <img src="images/android.png" alt="Alt Text" width="10" height="10"> [Android Development]
-- 🌐 [Technology 2]
-- 🛠️ [Tool 1]
-- 🚀 [Framework 1]
-- 📱 [Platform 1]
+- <img src="images/android.png" alt="Android" width="20" height="20"> [Android]
+- <img src="images/kotlin_logo.png" alt="Kotlin" width="20" height="20"> [Kotlin]
+- <img src="images/java_logo.png" alt="Java" width="20" height="20"> [Java]
+- <img src="images/aspdotnet.png" alt="Asp.NET" width="20" height="20"> [Asp .NET]
+- <img src="images/android_studio.png" alt="Android Studio" width="20" height="20"> [Android Studio]
+- <img src="images/visualstudio.png" alt="Visual Studio" width="20" height="20"> [Visual Studio]
 
 ## Projects
 
