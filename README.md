@@ -1,20 +1,20 @@
 # Welcome to Shehryar Zaheer's GitHub Profile 🌟
 
-![Profile Banner](https://drive.google.com/file/d/1yqS9siIf7da6OfjXcPzgCwbVxObsP8g-/view?usp=sharing)
+![Profile Banner](images/profile_banner.jpg)
 
 ## About Me
 
-Hello there! 👋 I'm Your Name, a passionate [Your Profession/Interest] with a love for [Specific Technologies or Skills]. I believe in the power of technology to make a positive impact on the world, and I'm always excited to explore new ideas and collaborate on innovative projects.
+Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a love for building beautiful and high quality android applications. I believe in the power of technology to make a positive impact on the world, and I'm always excited to explore new ideas and collaborate on innovative projects.
 
-- 🚀 Currently working on [Current Project/Job] at [Company/Organization]
-- 🌱 I’m constantly learning and evolving in [Areas of Interest]
-- 💬 Let's connect! Reach out to me for discussions on [Topics of Interest]
+- 🚀 Currently working on [OgowHealth](https://ogowhealthportal.com/) at [Xeven Solutions](https://www.xevensolutions.com/)
+- 🌱 I’m constantly learning and evolving in Mobile App Development.
+- 💬 Let's connect! Reach out to me for discussions on Mobile Apps Development.
 
 ## My Tech Stack
 
 Here are some of the technologies and tools I work with:
 
-- 💻 [Technology 1]
+- ![Android](images/android-logo-png-transparent.png) [Android Development]
 - 🌐 [Technology 2]
 - 🛠️ [Tool 1]
 - 🚀 [Framework 1]
