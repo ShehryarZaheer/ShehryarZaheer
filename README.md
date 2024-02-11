@@ -14,7 +14,7 @@ Hello there! 👋 I'm Shehryar Zaheer, a passionate Software Developer with a lo
 
 Here are some of the technologies and tools I work with:
 
-- ![Android](images/android.png){: width="10" height="10"} [Android Development]
+- <img src="images/android.png" alt="Alt Text" width="10" height="10"> [Android Development]
 - 🌐 [Technology 2]
 - 🛠️ [Tool 1]
 - 🚀 [Framework 1]
